@@ -4,5 +4,5 @@ N'hésitez pas à ajouter un lien vers votre portfolio ou un profil.
 
 
 ### MAJ
-La mise à jour du site doit être faite manuellement ([ici](https://vercel.com/felixm/ecole-landing/deployments)), envoyez un mot au responsable au besoin.
+La mise à jour du site doit être faite manuellement ([ici](https://vercel.com/felixm/ecole-landing/deployments)), envoyez un mot à un responsable au besoin.
  
